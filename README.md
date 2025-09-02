@@ -31,7 +31,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&theme=dark&hide_border=true&layout=compact)
 
 ---
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ygttncy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ---
 ## 🎯 Featured Projects  
