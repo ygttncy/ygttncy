@@ -57,15 +57,6 @@
     alt="Productive Time"
   />
 </p>
-
-<!-- Activity Graph (geniş görsel olduğu için alta ayrı) -->
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ygttncy&theme=react-dark&hide_border=true&radius=8"
-    alt="Activity Graph"
-  />
-</p>
-
 ---
 
 ## 🎯 Featured Projects  
