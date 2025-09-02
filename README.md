@@ -31,9 +31,10 @@
 ---
 
 ## 🎯 Featured Projects  
+## 🎯 Featured Projects  
 - 🌐 **[Furniro](https://github.com/ygttncy/Furniro)** – Modern mobilya satış sitesi (React + SCSS)  
-
-
+- 🍔 **[FoodApp](https://github.com/ygttncy/FoodApp)** – Restoran yemek sipariş uygulaması (React + SCSS)  
+- 📚 **[E-Tutor LMS](https://github.com/ygttncy/june-frontend-e-tutor-lms-1)** – Online eğitim sistemi için öğrenme yönetim platformu  
 ---
 
 ## ✍️ Random Dev Quote  
