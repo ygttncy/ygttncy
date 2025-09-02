@@ -29,8 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <!-- Overall Stats -->
   <img 
@@ -38,17 +36,25 @@
     height="160"
     alt="Overall Stats"
   />
-  <!-- Streak (yeni domain) -->
+  <!-- Profile Details (Streak yerine stabil alternatif) -->
   <img 
-    src="https://streak-stats.demolab.com?user=ygttncy&theme=dark&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygttncy&theme=github_dark"
     height="160"
-    alt="Streak Stats"
+    alt="Profile Details"
   />
   <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200"
     height="160"
     alt="Top Languages"
+  />
+</p>
+
+<!-- Productive Time (haftanın hangi saatleri daha aktifsin) -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ygttncy&theme=github_dark&utcOffset=+3"
+    alt="Productive Time"
   />
 </p>
 
