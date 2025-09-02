@@ -27,13 +27,13 @@
 
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=ygttncy&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ygttncy&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&theme=dark&hide_border=true&layout=compact)
 
 ---
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ygttncy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🎯 Featured Projects  
+---
 ## 🎯 Featured Projects  
 - 🌐 **[Furniro](https://github.com/ygttncy/Furniro)** – Modern mobilya satış sitesi (React + SCSS)  
 - 🍔 **[FoodApp](https://github.com/ygttncy/FoodApp)** – Restoran yemek sipariş uygulaması (React + SCSS)  
