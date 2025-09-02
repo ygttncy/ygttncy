@@ -32,7 +32,6 @@
 
 ## 🎯 Featured Projects  
 - 🌐 **[Furniro](https://github.com/ygttncy/Furniro)** – Modern mobilya satış sitesi (React + SCSS)  
-- 🎮 **[WebDuels](https://github.com/ygttncy/WebDuels)** – Web geliştiriciler için yarışma platformu  
 - 🎵 **[Melodies](https://github.com/ygttncy/melodies-solo)** – Spotify API ile müzik keşif uygulaması  
 
 ---
