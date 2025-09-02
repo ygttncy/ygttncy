@@ -26,9 +26,38 @@
 ---
 
 
-## 📊 GitHub Stats  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ygttncy&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&theme=dark&hide_border=true&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center" style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+
+  <!-- Overall Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ygttncy&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
+    height="160"
+    alt="Overall Stats"
+  />
+
+  <!-- Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ygttncy&theme=dark&hide_border=true"
+    height="160"
+    alt="Streak Stats"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=dark&hide_border=true"
+    height="160"
+    alt="Top Languages"
+  />
+
+  <!-- Activity Graph (son 1 ay) -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ygttncy&theme=react-dark&hide_border=true"
+    height="240"
+    alt="Activity Graph"
+  />
+</div>
 
 ---
 ## 🎯 Featured Projects  
