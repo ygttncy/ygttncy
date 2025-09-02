@@ -31,10 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&theme=dark&hide_border=true&layout=compact)
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ygttncy&theme=react-dark&hide_border=true)
-
-
----
 ## 🎯 Featured Projects  
 - 🌐 **[Furniro](https://github.com/ygttncy/Furniro)** – Modern mobilya satış sitesi (React + SCSS)  
 - 🍔 **[FoodApp](https://github.com/ygttncy/FoodApp)** – Restoran yemek sipariş uygulaması (React + SCSS)  
