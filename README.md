@@ -5,6 +5,8 @@
 🌍 Hem bireysel projelerimde hem de takım çalışmalarında sürekli öğrenmeye ve geliştirmeye açığım.  
 
 ---
+![Snake animation](https://github.com/ygttncy/ygttncy/blob/output/github-contribution-grid-snake.svg)
+--
 
 ## ⚡ Tech Stack  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -22,8 +24,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ygttncy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-![Snake animation](https://github.com/ygttncy/ygttncy/blob/output/github-contribution-grid-snake.svg)
----
+
 
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=ygttncy&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
