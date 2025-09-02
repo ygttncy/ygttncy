@@ -29,29 +29,33 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Overall Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ygttncy&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&theme=dark&rank_icon=github&hide_border=true&cache_seconds=7200"
     height="160"
     alt="Overall Stats"
   />
+  <!-- Streak (yeni domain) -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ygttncy&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ygttncy&theme=dark&hide_border=true"
     height="160"
     alt="Streak Stats"
   />
+  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200"
     height="160"
     alt="Top Languages"
   />
 </p>
 
+<!-- Activity Graph (geniş görsel olduğu için alta ayrı) -->
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ygttncy&theme=react-dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ygttncy&theme=react-dark&hide_border=true&radius=8"
     alt="Activity Graph"
   />
 </p>
