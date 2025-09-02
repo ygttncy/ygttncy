@@ -32,7 +32,7 @@
 
 ## 🎯 Featured Projects  
 - 🌐 **[Furniro](https://github.com/ygttncy/Furniro)** – Modern mobilya satış sitesi (React + SCSS)  
-- 🎵 **[Melodies](https://github.com/ygttncy/melodies-solo)** – Spotify API ile müzik keşif uygulaması  
+
 
 ---
 
