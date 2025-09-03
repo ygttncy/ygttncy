@@ -50,13 +50,6 @@
   />
 </p>
 
-<!-- Productive Time (haftanın hangi saatleri daha aktifsin) -->
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ygttncy&theme=github_dark&utcOffset=+3"
-    alt="Productive Time"
-  />
-</p>
 ---
 
 ## 🎯 Featured Projects  
