@@ -36,13 +36,6 @@
     height="160"
     alt="Overall Stats"
   />
-  <!-- Profile Details (Streak yerine stabil alternatif) -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygttncy&theme=github_dark"
-    height="160"
-    alt="Profile Details"
-  />
-  <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200"
     height="160"
