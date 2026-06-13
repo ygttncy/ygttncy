@@ -1,69 +1,125 @@
-# 👋 Hi, I'm Yiğit Tuncay  
+# Hi there 👋 I'm Yiğit
 
-💻 **Web Developer | Frontend Enthusiast | Creative Designer**  
-🚀 Modern UI/UX odaklı, React ve SCSS dünyasında güçlü adımlarla ilerleyen bir geliştiriciyim.  
-🌍 Hem bireysel projelerimde hem de ekip çalışmalarında sürekli öğrenmeye ve geliştirmeye açığım.  
+<div align="center">
 
----
+Full Stack Developer • Web Applications • Automation Systems • AI Solutions
 
-![Snake animation](https://github.com/ygttncy/ygttncy/blob/output/github-contribution-grid-snake.svg)
+Building software that solves real-world business problems.
 
----
-
-## ⚡ Tech Stack  
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![SCSS](https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)  
+</div>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🚀 About Me
 
-![](https://github-profile-trophy.vercel.app/?username=ygttncy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+I'm a developer focused on creating practical and scalable software solutions.
 
----
+My main interests include:
 
-<p align="center">
-  <!-- Overall Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&theme=dark&rank_icon=github&hide_border=true&cache_seconds=7200"
-    height="160"
-    alt="Overall Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200"
-    height="160"
-    alt="Top Languages"
-  />
-</p>
+- 🌐 Full Stack Web Development
+- 🤖 AI-Powered Applications
+- 📦 Inventory & Stock Management Systems
+- 🏢 Business Automation Software
+- 🛒 E-Commerce Platforms
+- ⚡ Performance & Scalability
+
+I enjoy transforming ideas into real products and continuously improving my skills through hands-on projects.
 
 ---
 
-## 🎯 Featured Projects  
+## 🛠 Tech Stack
 
-- 🌐 **[Furniro](https://github.com/ygttncy/Furniro)** – Modern mobilya satış sitesi (React + SCSS)  
-- 🍔 **[FoodApp](https://github.com/ygttncy/FoodApp)** – Restoran yemek sipariş uygulaması (React + SCSS)  
-- 📚 **[E-Tutor LMS](https://github.com/ygttncy/june-frontend-e-tutor-lms-1)** – Online eğitim sistemi için öğrenme yönetim platformu  
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
+
+### Backend & Database
+
+![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
+![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)
+
 ---
 
-## ✍️ Random Dev Quote  
+## 🎯 Current Focus
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fit-tuncay-202061187)  
-[![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ygttncy)  
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ygttncy)  
+- Advanced Admin Panel Systems
+- Inventory Management Solutions
+- AI Assisted Business Tools
+- E-Commerce Infrastructure
+- Software Architecture
+- System Design
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ygttncy&color=blueviolet&style=flat-square)
+## 📌 Featured Projects
+
+### 🏢 Business Management System
+
+Inventory management, stock tracking, analytics and reporting.
+
+### 🛒 E-Commerce Platform
+
+Modern B2B & B2C commerce solutions.
+
+### 🤖 AI Business Assistant
+
+AI-powered business insights and reporting.
+
+### 📊 Inventory & Price Analysis System
+
+Market price monitoring and intelligent pricing recommendations.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Software Architecture
+- Design Patterns
+- Cloud Technologies
+- Artificial Intelligence
+- Scalable Backend Systems
+
+---
+
+## 💡 Philosophy
+
+> Good software is not just code.
+>
+> It solves problems, saves time and creates value.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ygttncy
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
