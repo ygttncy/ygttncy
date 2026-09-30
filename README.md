@@ -100,10 +100,12 @@ Exploring tools for business discovery, website analysis, and tailored service p
 
 <div align="center">
   <img src="./profile/stats.svg" alt="Yiğit's GitHub activity and statistics" width="440" />
-  <img src="./profile/top-langs.svg" alt="Most used languages in public GitHub repositories" width="440" />
+  <img src="./profile/top-langs.svg" alt="Most used languages detected in GitHub repositories" width="440" />
+  <br />
+  <img src="./profile/styling-stack.svg" alt="Styling stack: Tailwind CSS, CSS3 and SCSS" width="400" />
 </div>
 
-<sub>Statistics are generated daily using GitHub Actions. Language metrics reflect repository code, not overall proficiency.</sub>
+<sub>GitHub statistics and language metrics are updated daily. Tailwind CSS is a framework, so it is shown separately rather than assigned an artificial language percentage.</sub>
 
 <p align="center">
   <a href="https://github.com/ygttncy?tab=repositories"><strong>View repositories</strong></a>
