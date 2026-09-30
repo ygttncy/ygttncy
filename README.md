@@ -1,3 +1,5 @@
+<!-- GitHub Profile | github.com/ygttncy -->
+
 <div align="center">
 
 <img width="100%" alt="Blue and navy gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=header" />
@@ -86,16 +88,21 @@ Exploring tools for business discovery, website analysis, and tailored service p
 <br />
 
 <h2>
-  <img src="https://api.iconify.design/lucide/activity.svg?color=%2360A5FA" width="21" height="21" alt="" />
-  GitHub activity
+  <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  GitHub statistics
 </h2>
 
-My repositories, contributions, and ongoing work are available directly on GitHub. The contribution graph appears automatically below this README on my profile.
+<div align="center">
+  <img src="./profile/stats.svg" alt="Yiğit's GitHub activity and statistics" width="440" />
+  <img src="./profile/top-langs.svg" alt="Most used languages in public GitHub repositories" width="440" />
+</div>
+
+<sub>Statistics are generated daily using GitHub Actions. Language metrics reflect repository code, not overall proficiency.</sub>
 
 <p align="center">
-  <a href="https://github.com/ygttncy?tab=repositories"><strong>Explore repositories</strong></a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://github.com/ygttncy"><strong>View contribution activity</strong></a>
+  <a href="https://github.com/ygttncy?tab=repositories"><strong>View repositories</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ygttncy"><strong>Contribution activity</strong></a>
 </p>
 
 <br />
