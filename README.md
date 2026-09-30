@@ -1,5 +1,3 @@
-<!-- GitHub Profile | github.com/ygttncy -->
-
 <div align="center">
 
 <img width="100%" alt="Blue and navy gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=header" />
@@ -92,17 +90,13 @@ Exploring tools for business discovery, website analysis, and tailored service p
   GitHub activity
 </h2>
 
-<details>
-  <summary><strong>View my GitHub stats</strong></summary>
-  <br />
-  <div align="center">
-    <img width="440" alt="GitHub statistics for ygttncy" src="https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&theme=github_dark&hide_border=true" />
-    <br />
-    <img width="360" alt="Languages used in public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=github_dark&hide_border=true" />
-    <br />
-    <sub>Language stats reflect public repositories, not overall proficiency.</sub>
-  </div>
-</details>
+My repositories, contributions, and ongoing work are available directly on GitHub. The contribution graph appears automatically below this README on my profile.
+
+<p align="center">
+  <a href="https://github.com/ygttncy?tab=repositories"><strong>Explore repositories</strong></a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://github.com/ygttncy"><strong>View contribution activity</strong></a>
+</p>
 
 <br />
 
