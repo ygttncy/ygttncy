@@ -94,8 +94,6 @@ Exploring tools for business discovery, website analysis, and tailored service p
 <div align="center">
   <img src="./profile/stats.svg" alt="Yiğit's GitHub activity and statistics" width="440" />
   <img src="./profile/top-langs.svg" alt="Most used languages detected in GitHub repositories" width="440" />
-  <br />
-  <img src="./profile/styling-stack.svg" alt="Styling stack: Tailwind CSS, CSS3 and SCSS" width="400" />
 </div>
 
 
