@@ -110,4 +110,4 @@ Exploring tools for business discovery, website analysis, and tailored service p
     <img alt="GitHub: ygttncy" src="https://img.shields.io/badge/ygttncy-View_GitHub_Profile-172033?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-<img width="100%" alt="Blue and navy gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=header" />
+<img width="100%" alt="Blue and navy gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=footer" />
