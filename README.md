@@ -1,125 +1,89 @@
-# Hi there 👋 I'm Yiğit
-
 <div align="center">
 
-Full Stack Developer • Web Applications • Automation Systems • AI Solutions
+Hey, I’m Yiğit 👋
 
-Building software that solves real-world business problems.
+Full Stack Developer | Business Software | Automation | AI
+
+I build modern, scalable software that solves real business problems.
 
 </div>
 
----
+⸻
 
-## 🚀 About Me
+👨‍💻 About Me
 
-I'm a developer focused on creating practical and scalable software solutions.
+I’m a full stack developer focused on transforming ideas into useful digital products. I enjoy building SaaS platforms, business management tools, modern web applications, and AI-assisted workflows.
 
-My main interests include:
+I care about clean interfaces, maintainable code, and practical solutions.
 
-- 🌐 Full Stack Web Development
-- 🤖 AI-Powered Applications
-- 📦 Inventory & Stock Management Systems
-- 🏢 Business Automation Software
-- 🛒 E-Commerce Platforms
-- ⚡ Performance & Scalability
+🛠️ Tech Stack
 
-I enjoy transforming ideas into real products and continuously improving my skills through hands-on projects.
+Languages
 
----
+TypeScript · JavaScript · C# · Python · HTML · CSS
 
-## 🛠 Tech Stack
+Frontend
 
-### Frontend
+React · Next.js · Blazor · Tailwind CSS
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
+Backend & Databases
 
-### Backend & Database
+Node.js · NestJS · ASP.NET Core · PostgreSQL · Prisma · SQLite · Firebase
 
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
-![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql)
+Tools
 
-### Tools
+Git · GitHub · Docker · VS Code · Visual Studio
 
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)
+🚀 Featured Projects
 
----
+🏢 Viorasoft — SaaS Business Platform
 
-## 🎯 Current Focus
+A multi-role business software platform featuring product management, subscriptions, customer support, and administrative tools.
 
-- Advanced Admin Panel Systems
-- Inventory Management Solutions
-- AI Assisted Business Tools
-- E-Commerce Infrastructure
-- Software Architecture
-- System Design
+Stack: Next.js, TypeScript, NestJS, PostgreSQL, Prisma, Blazor, .NET
 
----
+📦 Inventory & Business Management
 
-## 📌 Featured Projects
+Inventory tracking, stock control, sales workflows, and operational reporting for businesses.
 
-### 🏢 Business Management System
+Stack: Python, SQLite, Business Automation
 
-Inventory management, stock tracking, analytics and reporting.
+🤖 AI-Assisted Lead Discovery
 
-### 🛒 E-Commerce Platform
+A business discovery workflow designed to evaluate websites and digital presence and help prepare tailored service proposals.
 
-Modern B2B & B2C commerce solutions.
+Focus: Automation, Web Analysis, AI
 
-### 🤖 AI Business Assistant
+🛒 E-Commerce & Pricing Tools
 
-AI-powered business insights and reporting.
+B2B/B2C commerce workflows, product management, and data-driven price analysis.
 
-### 📊 Inventory & Price Analysis System
+Focus: E-Commerce, Analytics, Business Software
 
-Market price monitoring and intelligent pricing recommendations.
+Some projects are still in development. Public repositories and demos will be linked when available.
 
----
+🎯 Current Focus
 
-## 📈 GitHub Stats
+* Scalable SaaS applications and modern admin panels
+* API integrations, authentication, and backend architecture
+* Business automation and AI-assisted tools
+* Responsive interfaces and software architecture
+
+📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=tokyonight)
-
 </div>
 
----
+Language statistics reflect public GitHub repositories, not overall proficiency.
 
-## 🌱 Currently Learning
+📫 Connect With Me
 
-- Software Architecture
-- Design Patterns
-- Cloud Technologies
-- Artificial Intelligence
-- Scalable Backend Systems
+GitHub — @ygttncy
 
----
-
-## 💡 Philosophy
-
-> Good software is not just code.
->
-> It solves problems, saves time and creates value.
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/ygttncy
-
----
+⸻
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+Build useful things. Keep improving. 🚀
 
 </div>
