@@ -46,7 +46,13 @@ Languages
 
 Frontend
 
-<img alt="React, Next.js, Tailwind CSS, HTML and CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+<img alt="React, Next.js and HTML5" src="https://skillicons.dev/icons?i=react,nextjs,html&theme=dark" />
+
+Styling
+
+<img alt="Tailwind CSS, CSS3 and Sass / SCSS" src="https://skillicons.dev/icons?i=tailwind,css,sass&theme=dark" />
+
+<sub>Tailwind CSS · CSS3 · Sass / SCSS</sub>
 
 Backend & data
 
@@ -71,7 +77,7 @@ Viorasoft <img alt="In development" src="https://img.shields.io/badge/In_develop
 
 A business-focused SaaS platform with product management, subscriptions, support workflows, and role-based administration. Also developing a Blazor / .NET interface.
 
-<sub>Next.js · TypeScript · NestJS · PostgreSQL · Prisma · Blazor</sub>
+<sub>Next.js · TypeScript · Tailwind CSS · NestJS · PostgreSQL · Prisma · Blazor</sub>
 
 Inventory & Business Management
 
