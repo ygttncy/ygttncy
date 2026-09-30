@@ -98,13 +98,7 @@ Exploring tools for business discovery, website analysis, and tailored service p
   <img src="./profile/styling-stack.svg" alt="Styling stack: Tailwind CSS, CSS3 and SCSS" width="400" />
 </div>
 
-<sub>GitHub statistics and language metrics are updated daily. Tailwind CSS is a framework, so it is shown separately rather than assigned an artificial language percentage.</sub>
 
-<p align="center">
-  <a href="https://github.com/ygttncy?tab=repositories"><strong>View repositories</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/ygttncy"><strong>Contribution activity</strong></a>
-</p>
 
 <br />
 
