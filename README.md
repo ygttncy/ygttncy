@@ -1,133 +1,118 @@
-<!-- GitHub Profile README | github.com/ygttncy -->
+<!-- GitHub Profile | github.com/ygttncy -->
 
 <div align="center">
 
-<img width="100%" alt="Blue gradient header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:0891B2&height=135&section=header" />
+<img width="100%" alt="Blue and navy gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=header" />
 
-Hey, I’m Yiğit 👋
+<h1>
+  <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2360A5FA" width="32" height="32" alt="Code icon" />
+  Hi, I'm Yiğit
+</h1>
 
-Full Stack Developer · SaaS · Business Automation
+<strong>Full Stack Developer</strong>
 
-I turn real-world business problems into clean, reliable software.
+<p>Building thoughtful software for real-world business needs.</p>
 
 <p>
   <a href="https://github.com/ygttncy">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-ygttncy-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-ygttncy-172033?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img alt="Focus: Building Viorasoft" src="https://img.shields.io/badge/Currently-Building%20Viorasoft-0891B2?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img alt="Focus: SaaS and automation" src="https://img.shields.io/badge/Focus-SaaS%20%26%20Automation-2563EB?style=flat-square" />
 </p>
 
 </div>
 
 <br />
 
-01 / About me
+<h2>
+  <img src="https://api.iconify.design/lucide/user-round.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  About me
+</h2>
 
-I’m a full stack developer interested in the intersection of software, business, and automation. I build web applications and management systems with a focus on usability, maintainability, and performance.
+I’m a full stack developer who enjoys turning complicated workflows into simple, reliable software. My work focuses on SaaS products, business management systems, and automation.
 
-My work revolves around turning complicated workflows into simple products — from SaaS dashboards and APIs to inventory tools and AI-assisted applications.
-
-• Building: Viorasoft and business-focused software products
-• Working with: Modern web technologies, .NET, APIs, and databases
-• Exploring: AI integrations, system design, and scalable architecture
+Currently, I’m building Viorasoft and exploring how modern web technologies, .NET, and AI can improve everyday business operations.
 
 <br />
 
-02 / Tech stack
+<h2>
+  <img src="https://api.iconify.design/lucide/layers.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  Tech stack
+</h2>
 
 Languages
 
-<p>
-  <img alt="TypeScript, JavaScript, C Sharp, Python, HTML and CSS" src="https://skillicons.dev/icons?i=ts,js,cs,py,html,css&theme=dark&perline=6" />
-</p>
+<img alt="TypeScript, JavaScript, C Sharp and Python" src="https://skillicons.dev/icons?i=ts,js,cs,py&theme=dark" />
 
 Frontend
 
-<p>
-  <img alt="React, Next.js and Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=6" />
-  <br />
-  <sub>Also working with Blazor / Razor Components</sub>
-</p>
+<img alt="React, Next.js, Tailwind CSS, HTML and CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
 Backend & data
 
-<p>
-  <img alt="Node.js, NestJS, .NET, PostgreSQL, Prisma, SQLite and Firebase" src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,postgres,prisma,sqlite,firebase&theme=dark&perline=7" />
-</p>
+<img alt="Node.js, NestJS, .NET, PostgreSQL and Prisma" src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,postgres,prisma&theme=dark" />
 
-Tools & workflow
+<sub>Also working with Blazor, SQLite and Firebase.</sub>
 
-<p>
-  <img alt="Git, GitHub, Docker, VS Code, Visual Studio and Figma" src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma&theme=dark&perline=6" />
-</p>
+<br /><br />
 
-<br />
+Tools
 
-03 / Selected work
-
-🏢 Viorasoft — Business SaaS
-
-A business software platform built around product management, subscriptions, customer support, and role-based administration. I’m also developing a Blazor / .NET interface as part of the wider ecosystem.
-
-Status
-Stack
-
-📦 Inventory & Business Management
-
-Tools designed to simplify stock tracking, inventory operations, sales workflows, and business reporting.
-
-Focus
-Stack
-
-🤖 AI-Assisted Business Tools
-
-Exploring smarter ways to research potential customers, analyze digital presence, and create tailored business proposals.
-
-Status
-Focus
-
-<sub>Some of my work is private or in development. I’ll add public repositories and live demos when they’re ready.</sub>
+<img alt="Git, GitHub, Docker, VS Code and Visual Studio" src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio&theme=dark" />
 
 <br />
 
-04 / GitHub activity
+<h2>
+  <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  Selected projects
+</h2>
 
-<div align="center">
+Viorasoft <img alt="In development" src="https://img.shields.io/badge/In_development-2563EB?style=flat-square" />
 
-<img alt="Yiğit's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+A business-focused SaaS platform with product management, subscriptions, support workflows, and role-based administration. Also developing a Blazor / .NET interface.
+
+<sub>Next.js · TypeScript · NestJS · PostgreSQL · Prisma · Blazor</sub>
+
+Inventory & Business Management
+
+Software for stock tracking, sales workflows, and operational reporting, designed around the needs of everyday businesses.
+
+<sub>Python · SQLite · Business Automation</sub>
+
+AI-Assisted Business Tools <img alt="In development" src="https://img.shields.io/badge/In_development-2563EB?style=flat-square" />
+
+Exploring tools for business discovery, website analysis, and tailored service proposals.
+
+<sub>AI Integrations · Web Analysis · Automation</sub>
 
 <br />
 
-<img alt="Languages used in Yiğit's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&hide_border=true&theme=tokyonight" />
+<h2>
+  <img src="https://api.iconify.design/lucide/activity.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  GitHub activity
+</h2>
 
-<br />
-
-<sub>Language statistics reflect public repositories, not overall proficiency.</sub>
-
-</div>
-
-<br />
-
-05 / What I’m focusing on
-
-Scalable SaaS   API Design   Blazor & .NET   AI Integrations   Product Design
+<details>
+  <summary><strong>View my GitHub stats</strong></summary>
+  <br />
+  <div align="center">
+    <img width="440" alt="GitHub statistics for ygttncy" src="https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&theme=github_dark&hide_border=true" />
+    <br />
+    <img width="360" alt="Languages used in public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=github_dark&hide_border=true" />
+    <br />
+    <sub>Language stats reflect public repositories, not overall proficiency.</sub>
+  </div>
+</details>
 
 <br />
 
 ────────
 
 <div align="center">
-
-Let’s build something useful.
-
-<a href="https://github.com/ygttncy">
-  <img alt="Connect with me on GitHub" src="https://img.shields.io/badge/Connect_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br /><br />
-
-<sub>Good software makes complex things feel simple.</sub>
-
-<img width="100%" alt="Blue gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:1E40AF,100:0F172A&height=95&section=footer" />
-
+  <img src="https://api.iconify.design/lucide/link.svg?color=%2360A5FA" width="19" height="19" alt="" />
+  <strong>Connect</strong>
+  <br /><br />
+  <a href="https://github.com/ygttncy">
+    <img alt="GitHub: ygttncy" src="https://img.shields.io/badge/ygttncy-View_GitHub_Profile-172033?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
