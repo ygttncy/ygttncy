@@ -1,110 +1,133 @@
+<!-- GitHub Profile README | github.com/ygttncy -->
+
 <div align="center">
 
-Hi, I’m Yiğit 👋
+<img width="100%" alt="Blue gradient header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:0891B2&height=135&section=header" />
 
-Full-Stack Developer · Business Software · Automation · AI
+Hey, I’m Yiğit 👋
 
-I build practical, scalable software that helps businesses work smarter.
+Full Stack Developer · SaaS · Business Automation
 
-GitHub
+I turn real-world business problems into clean, reliable software.
+
+<p>
+  <a href="https://github.com/ygttncy">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-ygttncy-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img alt="Focus: Building Viorasoft" src="https://img.shields.io/badge/Currently-Building%20Viorasoft-0891B2?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
 </div>
 
-────────
+<br />
 
-About Me
+01 / About me
 
-I’m a full-stack developer interested in turning real business needs into reliable digital products. I work across web applications, backend services, management systems, and automation—with a focus on clean interfaces and maintainable architecture.
+I’m a full stack developer interested in the intersection of software, business, and automation. I build web applications and management systems with a focus on usability, maintainability, and performance.
 
-My areas of interest include SaaS platforms, inventory management, B2B/B2C commerce, and AI-assisted business tools.
+My work revolves around turning complicated workflows into simple products — from SaaS dashboards and APIs to inventory tools and AI-assisted applications.
 
-Tech Stack
+• Building: Viorasoft and business-focused software products
+• Working with: Modern web technologies, .NET, APIs, and databases
+• Exploring: AI integrations, system design, and scalable architecture
+
+<br />
+
+02 / Tech stack
 
 Languages
 
-TypeScript
-JavaScript
-C%23
-Python
-HTML5
-CSS3
+<p>
+  <img alt="TypeScript, JavaScript, C Sharp, Python, HTML and CSS" src="https://skillicons.dev/icons?i=ts,js,cs,py,html,css&theme=dark&perline=6" />
+</p>
 
 Frontend
 
-React
-Next.js
-Blazor
-Tailwind CSS
+<p>
+  <img alt="React, Next.js and Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=6" />
+  <br />
+  <sub>Also working with Blazor / Razor Components</sub>
+</p>
 
-Backend & Data
+Backend & data
 
-Node.js
-NestJS
-ASP.NET Core
-PostgreSQL
-Prisma
-SQLite
-Firebase
+<p>
+  <img alt="Node.js, NestJS, .NET, PostgreSQL, Prisma, SQLite and Firebase" src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,postgres,prisma,sqlite,firebase&theme=dark&perline=7" />
+</p>
 
-Tools
+Tools & workflow
 
-Git
-GitHub
-Docker
-VS Code
+<p>
+  <img alt="Git, GitHub, Docker, VS Code, Visual Studio and Figma" src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma&theme=dark&perline=6" />
+</p>
 
-Selected Projects
+<br />
 
-Viorasoft — SaaS Business Platform
+03 / Selected work
 
-A multi-role business software platform featuring product management, subscriptions, support workflows, and administrative tools.
+🏢 Viorasoft — Business SaaS
 
-Next.js TypeScript NestJS Prisma PostgreSQL Blazor / .NET
+A business software platform built around product management, subscriptions, customer support, and role-based administration. I’m also developing a Blazor / .NET interface as part of the wider ecosystem.
 
-Inventory & Business Management
+Status
+Stack
 
-Exploring tools for inventory tracking, stock control, sales workflows, and operational reporting.
+📦 Inventory & Business Management
 
-Python SQLite Business Automation
+Tools designed to simplify stock tracking, inventory operations, sales workflows, and business reporting.
 
-AI-Assisted Lead Discovery
+Focus
+Stack
 
-Developing a workflow for discovering businesses, assessing their digital presence, and preparing tailored service proposals.
+🤖 AI-Assisted Business Tools
 
-Automation Web Analysis AI
+Exploring smarter ways to research potential customers, analyze digital presence, and create tailored business proposals.
 
-E-Commerce & Pricing Tools
+Status
+Focus
 
-Exploring B2B/B2C commerce workflows, product data management, and data-driven price analysis.
+<sub>Some of my work is private or in development. I’ll add public repositories and live demos when they’re ready.</sub>
 
-E-Commerce Analytics Business Software
+<br />
 
-> Some projects are in active development. Public repositories and demos will be linked here when available.
-
-Current Focus
-
-• Building maintainable SaaS applications and admin dashboards
-• Improving backend architecture, authentication, and API integrations
-• Developing practical automation and AI-assisted business workflows
-• Designing responsive, accessible interfaces with a clear visual identity
-
-GitHub Activity
+04 / GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&theme=github_dark&hide_border=true" alt="Yiğit's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages in public repositories" height="165" />
+<img alt="Yiğit's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+
+<br />
+
+<img alt="Languages used in Yiğit's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br />
+
+<sub>Language statistics reflect public repositories, not overall proficiency.</sub>
 
 </div>
 
-<sub>Language stats reflect public GitHub repositories, not overall proficiency.</sub>
+<br />
 
-Let’s Connect
+05 / What I’m focusing on
 
-Have a software idea or want to collaborate? Find me on GitHub.
+Scalable SaaS   API Design   Blazor & .NET   AI Integrations   Product Design
+
+<br />
+
+────────
 
 <div align="center">
 
-Build useful things. Keep improving.
+Let’s build something useful.
+
+<a href="https://github.com/ygttncy">
+  <img alt="Connect with me on GitHub" src="https://img.shields.io/badge/Connect_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br /><br />
+
+<sub>Good software makes complex things feel simple.</sub>
+
+<img width="100%" alt="Blue gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:1E40AF,100:0F172A&height=95&section=footer" />
 
 </div>
