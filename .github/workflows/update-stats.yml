@@ -1,0 +1,59 @@
+name: Update GitHub profile stats
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-stats
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Check private statistics token
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          if [ -z "$PROFILE_STATS_TOKEN" ]; then
+            echo 'Missing PROFILE_STATS_TOKEN. Add it in Settings > Secrets and variables > Actions.'
+            exit 1
+          fi
+
+      - name: Generate GitHub statistics
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA&include_all_commits=true'
+          path: profile/stats.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          fail_on_error: 'true'
+
+      - name: Generate programming languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9'
+          path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          fail_on_error: 'true'
+
+      - name: Commit generated cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile/stats.svg profile/top-langs.svg
+          if git diff --cached --quiet; then
+            echo 'Cards unchanged.'
+            exit 0
+          fi
+          git commit -m 'chore(profile): refresh GitHub statistics'
+          git push
