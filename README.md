@@ -40,32 +40,25 @@ Currently, I’m building Viorasoft and exploring how modern web technologies, .
   Tech stack
 </h2>
 
-Languages
+<div align="center">
 
-<img alt="TypeScript, JavaScript, C Sharp and Python" src="https://skillicons.dev/icons?i=ts,js,cs,py&theme=dark" />
+  <img src="./profile/tech-languages.svg" alt="Programming languages: TypeScript, JavaScript, C# and Python" width="400" />
+  <img src="./profile/tech-frontend.svg" alt="Frontend technologies: React, Next.js, HTML5 and Blazor" width="400" />
 
-Frontend
+  <br />
 
-<img alt="React, Next.js and HTML5" src="https://skillicons.dev/icons?i=react,nextjs,html&theme=dark" />
+  <img src="./profile/tech-backend.svg" alt="Backend and databases: Node.js, NestJS, .NET, PostgreSQL, Prisma and SQLite" width="400" />
+  <img src="./profile/tech-tools.svg" alt="Developer tools: Git, GitHub, Docker, VS Code and Visual Studio" width="400" />
 
-Styling
+  <br />
 
-<img alt="Tailwind CSS, CSS3 and Sass / SCSS" src="https://skillicons.dev/icons?i=tailwind,css,sass&theme=dark" />
+  <img src="./profile/styling-stack.svg" alt="Styling: Tailwind CSS, CSS3 and Sass / SCSS" width="400" />
 
-<sub>Tailwind CSS · CSS3 · Sass / SCSS</sub>
+  <br />
 
-Backend & data
+  <sub>Also working with Firebase.</sub>
 
-<img alt="Node.js, NestJS, .NET, PostgreSQL and Prisma" src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,postgres,prisma&theme=dark" />
-
-<sub>Also working with Blazor, SQLite and Firebase.</sub>
-
-<br /><br />
-
-Tools
-
-<img alt="Git, GitHub, Docker, VS Code and Visual Studio" src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio&theme=dark" />
-
+</div>
 <br />
 
 <h2>
