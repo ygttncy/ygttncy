@@ -1,89 +1,110 @@
-<div align="center">
+div align="center">
 
-Hey, I’m Yiğit 👋
+Hi, I’m Yiğit 👋
 
-Full Stack Developer | Business Software | Automation | AI
+Full-Stack Developer · Business Software · Automation · AI
 
-I build modern, scalable software that solves real business problems.
+I build practical, scalable software that helps businesses work smarter.
+
+GitHub
 
 </div>
 
-⸻
+────────
 
-👨‍💻 About Me
+About Me
 
-I’m a full stack developer focused on transforming ideas into useful digital products. I enjoy building SaaS platforms, business management tools, modern web applications, and AI-assisted workflows.
+I’m a full-stack developer interested in turning real business needs into reliable digital products. I work across web applications, backend services, management systems, and automation—with a focus on clean interfaces and maintainable architecture.
 
-I care about clean interfaces, maintainable code, and practical solutions.
+My areas of interest include SaaS platforms, inventory management, B2B/B2C commerce, and AI-assisted business tools.
 
-🛠️ Tech Stack
+Tech Stack
 
 Languages
 
-TypeScript · JavaScript · C# · Python · HTML · CSS
+TypeScript
+JavaScript
+C%23
+Python
+HTML5
+CSS3
 
 Frontend
 
-React · Next.js · Blazor · Tailwind CSS
+React
+Next.js
+Blazor
+Tailwind CSS
 
-Backend & Databases
+Backend & Data
 
-Node.js · NestJS · ASP.NET Core · PostgreSQL · Prisma · SQLite · Firebase
+Node.js
+NestJS
+ASP.NET Core
+PostgreSQL
+Prisma
+SQLite
+Firebase
 
 Tools
 
-Git · GitHub · Docker · VS Code · Visual Studio
+Git
+GitHub
+Docker
+VS Code
 
-🚀 Featured Projects
+Selected Projects
 
-🏢 Viorasoft — SaaS Business Platform
+Viorasoft — SaaS Business Platform
 
-A multi-role business software platform featuring product management, subscriptions, customer support, and administrative tools.
+A multi-role business software platform featuring product management, subscriptions, support workflows, and administrative tools.
 
-Stack: Next.js, TypeScript, NestJS, PostgreSQL, Prisma, Blazor, .NET
+Next.js TypeScript NestJS Prisma PostgreSQL Blazor / .NET
 
-📦 Inventory & Business Management
+Inventory & Business Management
 
-Inventory tracking, stock control, sales workflows, and operational reporting for businesses.
+Exploring tools for inventory tracking, stock control, sales workflows, and operational reporting.
 
-Stack: Python, SQLite, Business Automation
+Python SQLite Business Automation
 
-🤖 AI-Assisted Lead Discovery
+AI-Assisted Lead Discovery
 
-A business discovery workflow designed to evaluate websites and digital presence and help prepare tailored service proposals.
+Developing a workflow for discovering businesses, assessing their digital presence, and preparing tailored service proposals.
 
-Focus: Automation, Web Analysis, AI
+Automation Web Analysis AI
 
-🛒 E-Commerce & Pricing Tools
+E-Commerce & Pricing Tools
 
-B2B/B2C commerce workflows, product management, and data-driven price analysis.
+Exploring B2B/B2C commerce workflows, product data management, and data-driven price analysis.
 
-Focus: E-Commerce, Analytics, Business Software
+E-Commerce Analytics Business Software
 
-Some projects are still in development. Public repositories and demos will be linked when available.
+> Some projects are in active development. Public repositories and demos will be linked here when available.
 
-🎯 Current Focus
+Current Focus
 
-* Scalable SaaS applications and modern admin panels
-* API integrations, authentication, and backend architecture
-* Business automation and AI-assisted tools
-* Responsive interfaces and software architecture
+• Building maintainable SaaS applications and admin dashboards
+• Improving backend architecture, authentication, and API integrations
+• Developing practical automation and AI-assisted business workflows
+• Designing responsive, accessible interfaces with a clear visual identity
 
-📊 GitHub Stats
+GitHub Activity
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ygttncy&show_icons=true&theme=github_dark&hide_border=true" alt="Yiğit's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygttncy&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages in public repositories" height="165" />
+
 </div>
 
-Language statistics reflect public GitHub repositories, not overall proficiency.
+<sub>Language stats reflect public GitHub repositories, not overall proficiency.</sub>
 
-📫 Connect With Me
+Let’s Connect
 
-GitHub — @ygttncy
-
-⸻
+Have a software idea or want to collaborate? Find me on GitHub.
 
 <div align="center">
 
-Build useful things. Keep improving. 🚀
+Build useful things. Keep improving.
 
 </div>
