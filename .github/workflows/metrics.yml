@@ -44,9 +44,11 @@ jobs:
           committer_message: "chore: update top languages"
 
           repositories_affiliations: owner, organization_member
+          repositories_forks: no
           base: ""
           template: classic
           plugin_languages: yes
+          plugin_languages_ignored: java
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
