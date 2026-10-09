@@ -6,52 +6,34 @@ on:
   workflow_dispatch:       # Actions sekmesinden elle çalıştırmak için
 
 jobs:
-  metrics:
+  cards:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      GH_USER: ygttncy
+      GH_ORGS: Viora-Software
     steps:
-      # 1) GitHub Stats kartı -> profile/stats.svg
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ygttncy
-          filename: profile/stats.svg
-          output_action: commit
-          committer_message: "chore: update github stats"
+      - uses: actions/checkout@v4
 
-          repositories_affiliations: owner, organization_member
-          base: activity, repositories
-          base_indepth: yes
-          template: classic
-          config_timezone: Europe/Istanbul
+      # GitHub Stats kartı -> profile/stats.svg
+      - name: Generate stats card
+        run: python3 scripts/stats_card.py
 
-          extras_css: |
-            svg { background: #111111; border: 1px solid #2A2A2A; border-radius: 10px; }
-            body, .field, .language { color: #FAFAFA !important; }
-            h2, h2 *, h3, h3 * { color: #FF6B1A !important; fill: #FF6B1A !important; }
-            h2 { font-size: 18px !important; font-weight: 600 !important; }
-            h2 svg, .field svg { fill: #FF6B1A !important; }
-            .language small, small { color: #A3A3A3 !important; }
-
-      # 2) Most Used Languages kartı -> profile/top-langs.svg (scripts/top_langs.py)
-      - uses: actions/checkout@v4   # stats commit'inden sonra güncel hali çeker
-
+      # Most Used Languages kartı -> profile/top-langs.svg
       - name: Generate top languages
         env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          GH_USER: ygttncy
-          GH_ORGS: Viora-Software
           TOP_N: "8"
           EXCLUDE_LANGS: java
           EXCLUDE_REPOS: ""          # örn: "eski-proje, Viora-Software/deneme"
           INCLUDE_FORKS: "false"
         run: python3 scripts/top_langs.py
 
-      - name: Commit top languages
+      - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/top-langs.svg
-          git diff --cached --quiet || git commit -m "chore: update top languages"
+          git add profile/stats.svg profile/top-langs.svg
+          git diff --cached --quiet || git commit -m "chore: update profile cards"
           git push
