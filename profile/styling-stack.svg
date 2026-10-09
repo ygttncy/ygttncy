@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="118" viewBox="0 0 400 118" role="img" aria-labelledby="title desc">
   <title id="title">Styling Stack</title>
   <desc id="desc">Tailwind CSS, CSS3, and Sass/SCSS</desc>
-  <rect width="399" height="117" x=".5" y=".5" rx="9" fill="#0D1117" stroke="#283347"/>
-  <text x="20" y="32" fill="#60A5FA" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Styling Stack</text>
+  <rect width="399" height="117" x=".5" y=".5" rx="9" fill="#111111" stroke="#2A2A2A"/>
+  <text x="20" y="32" fill="#FF6B1A" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Styling Stack</text>
   <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
-    <rect x="17" y="48" width="148" height="49" rx="9" fill="#142B3E" stroke="#20526B"/>
+    <rect x="17" y="48" width="148" height="49" rx="9" fill="#1A1A1A" stroke="#2E2E2E"/>
     <g transform="translate(25 56) scale(1.35)">
       <path fill="#38BDF8" d="M12 6c-2.4 0-3.9 1.2-4.5 3.6.9-1.2 1.95-1.65 3.15-1.35.69.18 1.17.66 1.7 1.18.87.85 1.84 1.77 3.65 1.77 2.4 0 3.9-1.2 4.5-3.6-.9 1.2-1.95 1.65-3.15 1.35-.69-.18-1.17-.66-1.7-1.18C14.78 6.92 13.81 6 12 6ZM7.5 12c-2.4 0-3.9 1.2-4.5 3.6.9-1.2 1.95-1.65 3.15-1.35.69.18 1.17.66 1.7 1.18.87.85 1.84 1.77 3.65 1.77 2.4 0 3.9-1.2 4.5-3.6-.9 1.2-1.95 1.65-3.15 1.35-.69-.18-1.17-.66-1.7-1.18C10.28 12.92 9.31 12 7.5 12Z"/>
     </g>
-    <text x="63" y="78" fill="#E6EDF3">Tailwind CSS</text>
-    <rect x="175" y="48" width="93" height="49" rx="9" fill="#142337" stroke="#27528B"/>
+    <text x="63" y="78" fill="#FAFAFA">Tailwind CSS</text>
+    <rect x="175" y="48" width="93" height="49" rx="9" fill="#1A1A1A" stroke="#2E2E2E"/>
     <path d="M190 58h21l-2 23-8.5 3-8.5-3z" fill="#1572B6"/>
     <text x="200.5" y="77" fill="white" text-anchor="middle" font-size="12">3</text>
-    <text x="221" y="78" fill="#E6EDF3">CSS3</text>
-    <rect x="278" y="48" width="105" height="49" rx="9" fill="#352133" stroke="#75425D"/>
+    <text x="221" y="78" fill="#FAFAFA">CSS3</text>
+    <rect x="278" y="48" width="105" height="49" rx="9" fill="#1A1A1A" stroke="#2E2E2E"/>
     <circle cx="302" cy="73" r="13" fill="#CC6699"/>
     <text x="302" y="78" fill="white" text-anchor="middle" font-size="15" font-style="italic">S</text>
-    <text x="323" y="78" fill="#E6EDF3">SCSS</text>
+    <text x="323" y="78" fill="#FAFAFA">SCSS</text>
   </g>
 </svg>
