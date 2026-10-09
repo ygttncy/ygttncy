@@ -34,30 +34,24 @@ jobs:
             h2 svg, .field svg { fill: #FF6B1A !important; }
             .language small, small { color: #A3A3A3 !important; }
 
-      # 2) Most Used Languages kartı -> profile/top-langs.svg
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ygttncy
-          filename: profile/top-langs.svg
-          output_action: commit
-          committer_message: "chore: update top languages"
+      # 2) Most Used Languages kartı -> profile/top-langs.svg (scripts/top_langs.py)
+      - uses: actions/checkout@v4   # stats commit'inden sonra güncel hali çeker
 
-          repositories_affiliations: owner, organization_member
-          repositories_forks: no
-          base: ""
-          template: classic
-          plugin_languages: yes
-          plugin_languages_ignored: java
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_languages_details: percentage
+      - name: Generate top languages
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_USER: ygttncy
+          GH_ORGS: Viora-Software
+          TOP_N: "8"
+          EXCLUDE_LANGS: java
+          EXCLUDE_REPOS: ""          # örn: "eski-proje, Viora-Software/deneme"
+          INCLUDE_FORKS: "false"
+        run: python3 scripts/top_langs.py
 
-          extras_css: |
-            svg { background: #111111; border: 1px solid #2A2A2A; border-radius: 10px; }
-            body, .field, .language { color: #FAFAFA !important; }
-            h2, h2 *, h3, h3 * { color: #FF6B1A !important; fill: #FF6B1A !important; }
-            h2 { font-size: 18px !important; font-weight: 600 !important; }
-            h2 svg, .field svg { fill: #FF6B1A !important; }
-            .language small, small { color: #A3A3A3 !important; }
+      - name: Commit top languages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          git diff --cached --quiet || git commit -m "chore: update top languages"
+          git push
