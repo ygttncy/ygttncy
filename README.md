@@ -9,15 +9,15 @@
   Hi, I'm Yiğit
 </h1>
 
-<strong>Full Stack Developer</strong>
+<strong>Frontend Developer</strong>
 
-<p>Building thoughtful software for real-world business needs.</p>
+<p>Crafting clean, fast and user-friendly interfaces for real-world products.</p>
 
 <p>
   <a href="https://github.com/ygttncy">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-ygttncy-111111?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img alt="Focus: SaaS and automation" src="https://img.shields.io/badge/Focus-SaaS%20%26%20Automation-FF6B1A?style=flat-square" />
+  <img alt="Focus: UI and web apps" src="https://img.shields.io/badge/Focus-UI%20%26%20Web%20Apps-FF6B1A?style=flat-square" />
 </p>
 
 </div>
@@ -29,9 +29,9 @@
   About me
 </h2>
 
-I’m a full stack developer who enjoys turning complicated workflows into simple, reliable software. My work focuses on SaaS products, business management systems, and automation.
+I’m a frontend developer who enjoys turning complicated workflows into simple, intuitive interfaces. I focus on building responsive, accessible and well-structured web applications with React, Next.js and TypeScript.
 
-Currently, I’m building Viorasoft and exploring how modern web technologies, .NET, and AI can improve everyday business operations.
+Currently, I’m working on the interface of Viorasoft, a SaaS platform for business management, and exploring how modern web technologies and AI can make everyday tools easier to use.
 
 <br />
 
@@ -42,17 +42,14 @@ Currently, I’m building Viorasoft and exploring how modern web technologies, .
 
 <div align="center">
 
-  <img src="./profile/tech-languages.svg" alt="Programming languages: TypeScript, JavaScript, C# and Python" width="400" />
   <img src="./profile/tech-frontend.svg" alt="Frontend technologies: React, Next.js, HTML5 and Blazor" width="400" />
-
-  <br />
-
-  <img src="./profile/tech-backend.svg" alt="Backend and databases: Node.js, NestJS, .NET, PostgreSQL, Prisma and SQLite" width="400" />
+  <img src="./profile/tech-languages.svg" alt="Programming languages: TypeScript, JavaScript, C# and Python" width="400" />
+  <img src="./profile/styling-stack.svg" alt="Styling: Tailwind CSS, CSS3 and Sass / SCSS" width="400" />
   <img src="./profile/tech-tools.svg" alt="Developer tools: Git, GitHub, Docker, VS Code and Visual Studio" width="400" />
 
-  <br />
 
-  <img src="./profile/styling-stack.svg" alt="Styling: Tailwind CSS, CSS3 and Sass / SCSS" width="400" />
+
+  <img src="./profile/tech-backend.svg" alt="Also familiar with: Node.js, NestJS, .NET, PostgreSQL, Prisma and SQLite" width="400" />
 
   <br />
 
@@ -68,21 +65,15 @@ Currently, I’m building Viorasoft and exploring how modern web technologies, .
 
 Viorasoft <img alt="In development" src="https://img.shields.io/badge/In_development-FF6B1A?style=flat-square" />
 
-A business-focused SaaS platform with product management, subscriptions, support workflows, and role-based administration. Also developing a Blazor / .NET interface.
+A business-focused SaaS platform with dashboards for product management, subscriptions, support workflows and role-based administration. Also developing a Blazor / .NET interface.
 
-<sub>Next.js · TypeScript · Tailwind CSS · NestJS · PostgreSQL · Prisma · Blazor</sub>
+<sub>Next.js · TypeScript · Tailwind CSS · Blazor · NestJS · PostgreSQL</sub>
 
 Inventory & Business Management
 
-Software for stock tracking, sales workflows, and operational reporting, designed around the needs of everyday businesses.
+Software for stock tracking, sales workflows and operational reporting, designed around the needs of everyday businesses.
 
 <sub>Python · SQLite · Business Automation</sub>
-
-AI-Assisted Business Tools <img alt="In development" src="https://img.shields.io/badge/In_development-FF6B1A?style=flat-square" />
-
-Exploring tools for business discovery, website analysis, and tailored service proposals.
-
-<sub>AI Integrations · Web Analysis · Automation</sub>
 
 <br />
 
@@ -92,11 +83,9 @@ Exploring tools for business discovery, website analysis, and tailored service p
 </h2>
 
 <div align="center">
-  <div>  <img src="./profile/stats.svg" alt="Yiğit's GitHub activity and statistics" width="440" /> </div>
- <div>   <img src="./profile/top-langs.svg" alt="Most used languages detected in GitHub repositories" width="440" /></div>
+  <img src="./profile/stats.svg" alt="Yiğit's GitHub activity and statistics" height="180" />
+  <img src="./profile/top-langs.svg" alt="Most used languages detected in GitHub repositories" height="180" />
 </div>
-
-
 
 <br />
 
