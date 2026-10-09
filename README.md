@@ -44,16 +44,17 @@ Currently, I’m working on the interface of Viorasoft, a SaaS platform for busi
 
   <img src="./profile/tech-frontend.svg" alt="Frontend technologies: React, Next.js, HTML5 and Blazor" width="400" />
   <img src="./profile/tech-languages.svg" alt="Programming languages: TypeScript, JavaScript, C# and Python" width="400" />
-  <img src="./profile/styling-stack.svg" alt="Styling: Tailwind CSS, CSS3 and Sass / SCSS" width="400" />
-  <img src="./profile/tech-tools.svg" alt="Developer tools: Git, GitHub, Docker, VS Code and Visual Studio" width="400" />
+  
 
 
 
   <img src="./profile/tech-backend.svg" alt="Also familiar with: Node.js, NestJS, .NET, PostgreSQL, Prisma and SQLite" width="400" />
 
+<img src="./profile/styling-stack.svg" alt="Styling: Tailwind CSS, CSS3 and Sass / SCSS" width="400" />
+  <img src="./profile/tech-tools.svg" alt="Developer tools: Git, GitHub, Docker, VS Code and Visual Studio" width="400" />
   <br />
 
-  <sub>Also working with Firebase.</sub>
+
 
 </div>
 <br />
