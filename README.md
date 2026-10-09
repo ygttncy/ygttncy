@@ -92,8 +92,8 @@ Exploring tools for business discovery, website analysis, and tailored service p
 </h2>
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="Yiğit's GitHub activity and statistics" width="440" />
-  <img src="./profile/top-langs.svg" alt="Most used languages detected in GitHub repositories" width="440" />
+  <div>  <img src="./profile/stats.svg" alt="Yiğit's GitHub activity and statistics" width="440" /> </div>
+ <div>   <img src="./profile/top-langs.svg" alt="Most used languages detected in GitHub repositories" width="440" /></div>
 </div>
 
 
