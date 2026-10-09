@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img width="100%" alt="Blue and navy gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=header" />
+<img width="100%" alt="Black and orange gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,15:FF6B1A,100:FF9A5C&height=120&section=header" />
 
 <h1>
-  <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2360A5FA" width="32" height="32" alt="Code icon" />
+  <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23FF6B1A" width="32" height="32" alt="Code icon" />
   Hi, I'm Yiğit
 </h1>
 
@@ -15,9 +15,9 @@
 
 <p>
   <a href="https://github.com/ygttncy">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-ygttncy-172033?style=flat-square&logo=github&logoColor=white" />
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-ygttncy-111111?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img alt="Focus: SaaS and automation" src="https://img.shields.io/badge/Focus-SaaS%20%26%20Automation-2563EB?style=flat-square" />
+  <img alt="Focus: SaaS and automation" src="https://img.shields.io/badge/Focus-SaaS%20%26%20Automation-FF6B1A?style=flat-square" />
 </p>
 
 </div>
@@ -25,7 +25,7 @@
 <br />
 
 <h2>
-  <img src="https://api.iconify.design/lucide/user-round.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  <img src="https://api.iconify.design/lucide/user-round.svg?color=%23FF6B1A" width="21" height="21" alt="" />
   About me
 </h2>
 
@@ -36,7 +36,7 @@ Currently, I’m building Viorasoft and exploring how modern web technologies, .
 <br />
 
 <h2>
-  <img src="https://api.iconify.design/lucide/layers.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  <img src="https://api.iconify.design/lucide/layers.svg?color=%23FF6B1A" width="21" height="21" alt="" />
   Tech stack
 </h2>
 
@@ -62,11 +62,11 @@ Currently, I’m building Viorasoft and exploring how modern web technologies, .
 <br />
 
 <h2>
-  <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23FF6B1A" width="21" height="21" alt="" />
   Selected projects
 </h2>
 
-Viorasoft <img alt="In development" src="https://img.shields.io/badge/In_development-2563EB?style=flat-square" />
+Viorasoft <img alt="In development" src="https://img.shields.io/badge/In_development-FF6B1A?style=flat-square" />
 
 A business-focused SaaS platform with product management, subscriptions, support workflows, and role-based administration. Also developing a Blazor / .NET interface.
 
@@ -78,7 +78,7 @@ Software for stock tracking, sales workflows, and operational reporting, designe
 
 <sub>Python · SQLite · Business Automation</sub>
 
-AI-Assisted Business Tools <img alt="In development" src="https://img.shields.io/badge/In_development-2563EB?style=flat-square" />
+AI-Assisted Business Tools <img alt="In development" src="https://img.shields.io/badge/In_development-FF6B1A?style=flat-square" />
 
 Exploring tools for business discovery, website analysis, and tailored service proposals.
 
@@ -87,7 +87,7 @@ Exploring tools for business discovery, website analysis, and tailored service p
 <br />
 
 <h2>
-  <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%23FF6B1A" width="21" height="21" alt="" />
   GitHub statistics
 </h2>
 
@@ -103,11 +103,11 @@ Exploring tools for business discovery, website analysis, and tailored service p
 ────────
 
 <div align="center">
-  <img src="https://api.iconify.design/lucide/link.svg?color=%2360A5FA" width="19" height="19" alt="" />
+  <img src="https://api.iconify.design/lucide/link.svg?color=%23FF6B1A" width="19" height="19" alt="" />
   <strong>Connect</strong>
   <br /><br />
   <a href="https://github.com/ygttncy">
-    <img alt="GitHub: ygttncy" src="https://img.shields.io/badge/ygttncy-View_GitHub_Profile-172033?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub: ygttncy" src="https://img.shields.io/badge/ygttncy-View_GitHub_Profile-FF6B1A?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
   </a>
 </div>
-<img width="100%" alt="Blue and navy gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=footer" />
+<img width="100%" alt="Orange and black gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A5C,85:FF6B1A,100:111111&height=120&section=footer" />
