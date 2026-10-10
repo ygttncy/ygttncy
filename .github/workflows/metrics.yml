@@ -13,7 +13,7 @@ jobs:
     env:
       GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
       GH_USER: ygttncy
-      GH_ORGS: Viora-Software
+      GH_ORGS: viorasoft
     steps:
       - uses: actions/checkout@v4
 
@@ -26,7 +26,7 @@ jobs:
         env:
           TOP_N: "8"
           EXCLUDE_LANGS: java
-          EXCLUDE_REPOS: ""          # örn: "eski-proje, Viora-Software/deneme"
+          EXCLUDE_REPOS: ""         
           INCLUDE_FORKS: "false"
         run: python3 scripts/top_langs.py
 
